@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "express": "^4.18.1"
+  },
+  "name": "3dproject",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
