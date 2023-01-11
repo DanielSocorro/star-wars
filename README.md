@@ -1,1 +1,1 @@
-#  Project 3D inspired for my favotires movie-series STAR WARS
+#  Project 3D inspired for my favorites movie-series STAR WARS
